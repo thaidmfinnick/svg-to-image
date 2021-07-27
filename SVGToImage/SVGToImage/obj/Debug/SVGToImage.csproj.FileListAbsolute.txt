@@ -1,0 +1,13 @@
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\bin\Debug\SVGToImage.exe.config
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\bin\Debug\SVGToImage.exe
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\bin\Debug\SVGToImage.pdb
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\bin\Debug\NReco.ImageGenerator.dll
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\bin\Debug\NReco.ImageGenerator.xml
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.csproj.AssemblyReference.cache
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.Form1.resources
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.Properties.Resources.resources
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.csproj.GenerateResource.cache
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.csproj.CoreCompileInputs.cache
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.csproj.CopyComplete
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.exe
+D:\Microsoft_VS_Code\filecodes\Python - C#\C#\ProjectSVG\SVGToImage\SVGToImage\SVGToImage\obj\Debug\SVGToImage.pdb
