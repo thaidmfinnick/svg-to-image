@@ -1,1 +1,1 @@
-"# svg-to-image" 
+# svg-to-image
