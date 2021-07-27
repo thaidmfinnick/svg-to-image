@@ -37,6 +37,7 @@ namespace SVGToImage
         {
             ChangeWidthHeight();
             ConvertSVGToImage();
+            MessageBox.Show("Convert successfully!", "Notification", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
         private void ChangeWidthHeight()
